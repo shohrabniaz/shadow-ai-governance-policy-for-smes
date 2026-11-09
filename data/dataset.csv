@@ -1,9 +1,9 @@
 id,text,label
-1,Urgent invoice payment wire now,risk
-2,Weekly status update attached,benign
-3,Reset your password phishing page,risk
-4,Meeting notes from standup,benign
-5,Fraud alert verify account,risk
-6,HR policy acknowledgement,benign
-7,Malware scan clean report,benign
-8,Suspicious login from abroad,risk
+1,Urgent shadow-ai-governance-policy-for-smes alert require immediate action,risk
+2,Weekly shadow-ai-governance-policy-for-smes status looks normal,benign
+3,Suspicious shadow-ai-governance-policy-for-smes anomaly detected please verify,risk
+4,Routine shadow-ai-governance-policy-for-smes maintenance completed,benign
+5,Fraud pattern in shadow-ai-governance-policy-for-smes submissions,risk
+6,Training notes for shadow-ai-governance-policy-for-smes operators,benign
+7,Phishing attempt referencing shadow-ai-governance-policy-for-smes,risk
+8,All clear report for shadow-ai-governance-policy-for-smes queue,benign
