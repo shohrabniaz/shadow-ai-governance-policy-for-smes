@@ -1,0 +1,9 @@
+id,text,label
+1,Urgent invoice payment wire now,risk
+2,Weekly status update attached,benign
+3,Reset your password phishing page,risk
+4,Meeting notes from standup,benign
+5,Fraud alert verify account,risk
+6,HR policy acknowledgement,benign
+7,Malware scan clean report,benign
+8,Suspicious login from abroad,risk
